@@ -5,7 +5,7 @@ The `lister.py` list all repositories of a GitHub user:
 python3 lister.py > list.txt
 ```
 
-The `downloader.py` script will download all releases from each repository that is listed in `list.txt`:
+The `downloader.py` script will download all releases repositories which is listed in `list.txt`:
 ```
 python3 downloader.py
 ```
